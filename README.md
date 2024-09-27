@@ -1,6 +1,6 @@
 # meals
 
-A new Flutter project.
+Meals app shows steps and ingridients required to make a particular cusine of selected category,you can also filter vegan,glutenfree,non Vegeterian options as well as add Your favorite dish to Favorites..the state management is handled Using riverpod..
 
 ## Getting Started
 
