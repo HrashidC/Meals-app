@@ -1,16 +1,16 @@
 # meals
 
-Meals app shows steps and ingridients required to make a particular cusine of selected category,you can also filter vegan,glutenfree,non Vegeterian options as well as add Your favorite dish to Favorites..the state management is handled Using riverpod..
+Meals app shows steps and ingridients required to make a particular cusine of selected category,you can also filter vegan,glutenfree,Lactose-Free,non Vegeterian options as well as add Your favorite dish to Favorites..the state management is handled Using riverpod..
 
-## Getting Started
+![Screenshot_20240927-121157](https://github.com/user-attachments/assets/689453c9-492c-44d7-8ef2-e78974659ac0)
 
-This project is a starting point for a Flutter application.
+![Screenshot_20240927-121210](https://github.com/user-attachments/assets/34876f31-e35c-4544-839f-d1969b0cf90f)
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_20240927-121229](https://github.com/user-attachments/assets/8f3f3137-0290-42a7-8c2f-4a7ed85b298c)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_20240927-121257](https://github.com/user-attachments/assets/1adae0bc-b611-4e9d-a6ed-a2cf9ee856a8)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20240927-121322](https://github.com/user-attachments/assets/fea1a632-828e-41da-b697-09d65d4788f3)
+
+![Screenshot_20240927-121343](https://github.com/user-attachments/assets/d7a2f4de-63a8-4f2c-adfa-71f5b1ba98e1)
+
